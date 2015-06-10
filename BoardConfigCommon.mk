@@ -37,6 +37,9 @@ TARGET_KERNEL_CONFIG := wicked_deb_defconfig
 KERNEL_TOOLCHAIN_PREFIX := arm-eabi-
 KERNEL_TOOLCHAIN := "$(ANDROID_BUILD_TOP)/prebuilt/$(HOST_OS)-x86_64/toolchain/Linaro-4.9/bin/"
 
+# Build with Oracle Java.  OpenJDK is crash-o-matic under heavy loading
+ORACLE_JDK7 := true
+
 # ROM toolchain
 TARGET_GCC_VERSION := 4.9
 
