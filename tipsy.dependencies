@@ -7,7 +7,7 @@
   },
   {
     "remote":	   "github",
-    "repository":  "AD5GB/device_asus_flo_tesla",
+    "repository":  "TipsyOs/device_asus_flo",
     "target_path": "device/asus/flo",
     "branch":      "lp5.1"
   },
