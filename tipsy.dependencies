@@ -1,27 +1,27 @@
 [
   {
-    "remote":	   "github",
+    "remote":      "github",
     "repository":  "AD5GB/kernel_asus_flo",
     "target_path": "kernel/asus/deb",
     "branch":      "lp5.1-b1"
   },
   {
-    "remote":	   "github",
+    "remote":      "github",
     "repository":  "TipsyOs/device_asus_flo",
     "target_path": "device/asus/flo",
     "branch":      "lp5.1"
   },
   {
     "remote":      "github",
-    "repository":  "TheMuppets/proprietary_vendor_asus",
+    "repository":  "TheLoonyBin/proprietary_vendor_asus",
     "target_path": "vendor/asus",
-    "branch":      "cm-12.1"
+    "branch":      "lp5.1"
   },
   {
     "remote":      "github",
-    "repository":  "TheMuppets/proprietary_vendor_broadcom",
+    "repository":  "TheLoonyBin/proprietary_vendor_broadcom",
     "target_path": "vendor/broadcom",
-    "branch":      "cm-12.1"
+    "branch":      "lp5.1"
   },
   {
     "remote":      "github",
