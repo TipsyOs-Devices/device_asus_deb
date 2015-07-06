@@ -6,25 +6,21 @@
     "branch":      "lp5.1-b1"
   },
   {
-    "remote":      "github",
     "repository":  "TipsyOs/device_asus_flo",
     "target_path": "device/asus/flo",
     "branch":      "lp5.1"
   },
   {
-    "remote":      "github",
     "repository":  "TheLoonyBin/proprietary_vendor_asus",
     "target_path": "vendor/asus",
     "branch":      "lp5.1"
   },
   {
-    "remote":      "github",
     "repository":  "TheLoonyBin/proprietary_vendor_broadcom",
     "target_path": "vendor/broadcom",
     "branch":      "lp5.1"
   },
   {
-    "remote":      "github",
     "repository":  "TheLoonyBin/proprietary_vendor_qcom",
     "target_path": "vendor/qcom",
     "branch":      "lp5.1"
