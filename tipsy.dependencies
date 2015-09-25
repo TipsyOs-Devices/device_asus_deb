@@ -1,6 +1,6 @@
 [
   {
-    "repository":  "TipsyOs/device_asus_flo",
+    "repository":  "TipsyOs-Devices/device_asus_flo",
     "target_path": "device/asus/flo",
     "branch":      "lp5.1"
   },
